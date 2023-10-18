@@ -1,0 +1,84 @@
+/* .App {
+  text-align: center;
+} */
+
+
+.container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    
+  }
+  .first{
+    position: absolute;
+    height: 100%;
+    width: 40%;
+  
+  }
+  .second{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+  }
+  .your{
+    text-shadow: 80px;
+    margin-top: 100px;
+    margin-left: 100px;
+    color:black;
+    font-weight: 500px;
+   font-size: 100px;
+   text-decoration: double;
+  }
+  .shop{
+    margin-top: 600px;
+    margin-left: 20px;
+  
+  }
+  .footer{
+    
+    padding: 2px;
+    margin-left:100px;
+  
+  }
+  .shop,.cat{
+    margin-left: 20px;
+  }
+  .last{
+    margin-left: 100px;
+    padding: 20px;
+  }
+  .deserve{
+    margin-left: 100px;
+    color: black;
+    font-size: 100px;
+    }
+  .image{
+    height: 500px;
+    width: 600px;
+    margin-left: 700px;
+    margin-right:1500px;
+    float: left;
+  }
+  .image1,.image2{
+    padding: 5px;
+  }
+   .lorem{
+    margin-left: 100px;
+    font-size: small; 
+   }
+   /* .image{
+    height: 500px;
+    width: 600px;
+    margin-left: 700px;
+    margin-right:800px;
+   
+  }
+  .image1{
+    height: 50px;
+    width: 50px;
+    margin-right: 100px;
+  }
+  .image2{
+    height: 50px;
+    width: 50px;
+  }  */
